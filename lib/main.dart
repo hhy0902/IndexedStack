@@ -69,7 +69,7 @@ class _MyHomePageState extends ConsumerState<MyHomePage> {
           BottomNavigationBarItem(icon: Icon(Icons.home), label: 'one'),
           BottomNavigationBarItem(icon: Icon(Icons.add), label: 'two'),
           BottomNavigationBarItem(icon: Icon(Icons.favorite), label: 'three'),
-          BottomNavigationBarItem(icon: Icon(Icons.mic), label: 'four'),
+          BottomNavigationBarItem(icon: Icon(Icons.minimize), label: 'four'),
         ],
       ),
     );
